@@ -30,7 +30,7 @@ int main()
 
     InputArray(&array[0], size);
 
-    cout << "平均は" << AveArray(&array[0], size) << "です。" << endl;
+    cout << "平均は" << AveArray(&array[0], size) << "点です。" << endl;
 
 
     if (array != NULL) {
